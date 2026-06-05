@@ -111,9 +111,8 @@ venv.bak/
 *.xml
 .idea
 
-# macOS / local assistant settings
+# macOS
 .DS_Store
-.claude/
 
 # LaTeX build artifacts
 *.aux
