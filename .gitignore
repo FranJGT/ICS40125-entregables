@@ -110,3 +110,26 @@ venv.bak/
 *.iml
 *.xml
 .idea
+
+# macOS / local assistant settings
+.DS_Store
+.claude/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Local backups
+*_backup.ipynb
+
+# Study / speaker guide, not part of the requested submission
+presentacion/guia_presentacion_talentco.*
+presentacion/generar_guia.py
